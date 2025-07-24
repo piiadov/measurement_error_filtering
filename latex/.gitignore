@@ -1,0 +1,94 @@
+# LaTeX auxiliary files
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.toc
+*.nav
+*.snm
+*.vrb
+*.synctex.gz
+*.synctex(busy)
+
+# LaTeX build files
+*.dvi
+*.ps
+*.eps
+
+# Bibliography files
+*.bib.bak
+*.bib.sav
+
+# BibTeX temporary files
+*.btaux
+*.btbbl
+
+# Glossaries
+*.acn
+*.acr
+*.glg
+*.glo
+*.gls
+*.glsdefs
+*.lzo
+*.lzs
+
+# Hyperref
+*.figlist
+*.makefile
+*.fls
+*.fdb_latexmk
+
+# Knitr
+*-concordance.tex
+*.tex.bak
+
+# Sagetex
+*.sagetex.sage
+*.sagetex.py
+*.sagetex.scmd
+
+# Pythontex
+*.pytxcode
+pythontex-files-*/
+
+# Temporary folders
+auto/
+
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# Folder config file
+[Dd]esktop.ini
+
+# Windows Installer files
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# Backup files
+*~
+*.backup
+*.bak
+*.orig
+
+# Editor temporary files
+.vscode/
+*.swp
+*.swo
+*~
+
+# MiKTeX specific
+*.fdb_latexmk
+*.synctex
+*.auxlock
