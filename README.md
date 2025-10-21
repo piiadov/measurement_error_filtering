@@ -1,6 +1,6 @@
 # Measurement Error Filtering
 
-📄 **[📖 Read the Paper (PDF)](latex/meas_filter.pdf)**
+**[Read the Paper (PDF)](latex/meas_filter.pdf)**
 
 This repository contains research on filtering input data errors in model error calculations, specifically examining the impact of measurement uncertainty on Mean Absolute Error (MAE) estimation.
 
@@ -12,7 +12,7 @@ This repository contains research on filtering input data errors in model error 
   - `img/` - Figures and illustrations
   - `compile.bat` - Windows batch script for easy PDF compilation
 
-- **`simulator/`** - Rust-based simulation code
+- **`simulator/`** - Simple rust-based simulation code
   - Implementation of uncertainty models and MAE calculations
 
 ## Research Abstract
@@ -21,7 +21,7 @@ This paper examines the impact of measurement uncertainty on Mean Absolute Error
 
 ## Citation
 
-If you use this work in your research, please cite:
+If you use this work in your research, do not hesitate to cite:
 
 ```
 Piiadov, V. (2025). Filtering Input Data Errors in Model Error Calculations: 
@@ -36,12 +36,9 @@ This work is licensed under the MIT License - see the [LICENSE](LICENSE) file fo
 ## Author
 
 **Vasilii Piiadov**  
-Email: piyadov@alumni.usp.br
+[LinkedIn](https://www.linkedin.com/in/vasilii-piiadov/)
 
 ## Contributing
 
 This is a research repository. Feel free to open issues for questions or discussions.
 
----
-
-*Note: This is currently a draft version under active development.*
